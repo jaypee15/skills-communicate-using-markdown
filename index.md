@@ -9,3 +9,7 @@ templates = Jinja2Templates(directory="templates")
 ```
 
 ![An Image of a yakto cat](https://octodex.github.com/images/yaktocat.png)
+
+- [ ] Turn on Github pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
